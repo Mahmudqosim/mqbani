@@ -1,0 +1,37 @@
+body {
+	background-color:red;
+}
+p {
+	color:white;
+	background-color::gray;
+}
+h1 {color:orange;}
+p.aby {
+	font-family:"Matura MT Script Capitals";
+	font-style:italic;
+}
+h2 {
+	color:orange;
+	font-family:"Matura MT Script Capitals";
+	font-style:italic;
+}
+p.vivo {
+	font-family:"Matura MT Script Capitals";
+}
+p.ma {
+	color:black;
+	font-family:Forte;
+}
+h3 {
+	color:white;
+	font-family:"Matura MT Script Capitals";
+}
+h4 {
+	color:white;
+	font-family:"Matura MT Script Capitals";
+}
+div.bani {
+	color:orange;
+	background-color:red;
+	font-family:"Matura MT Script Capitals";
+}
